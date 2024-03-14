@@ -9,12 +9,9 @@
 <p>I embarked on this transition by immersing myself in e-learning via OpenClassrooms, before joining a bootcamp at Wild Code School. Driven by an all-consuming passion and unfailing motivation, I continued my apprenticeship with a year's work-study as a fullstack developer, again at Wild Code School, at XPEHO from March 2023 to February 2024.</p>
 
 <h1>Some tools I have used and learned</h1>
-<i class="devicon-dart-plain-wordmark colored"></i>
-
-<i class="devicon-express-original-wordmark colored"></i>
-
-<i class="devicon-eslint-plain-wordmark colored"></i>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
+                   
                     
 
 <h1>Diplomas obtained</h1>
