@@ -8,6 +8,15 @@
 
 <p>I embarked on this transition by immersing myself in e-learning via OpenClassrooms, before joining a bootcamp at Wild Code School. Driven by an all-consuming passion and unfailing motivation, I continued my apprenticeship with a year's work-study as a fullstack developer, again at Wild Code School, at XPEHO from March 2023 to February 2024.</p>
 
+<h1>Some tools I have used and learned</h1>
+<i class="devicon-dart-plain-wordmark colored"></i>
+
+<i class="devicon-express-original-wordmark colored"></i>
+
+<i class="devicon-eslint-plain-wordmark colored"></i>
+          
+                    
+
 <h1>Diplomas obtained</h1>
 <ul>
   <li>RNCP level 6 - Web and Mobile Web Developer (RNCP31114) in October 2023.</li>
@@ -19,7 +28,6 @@
 
 <h1>Passions and interests</h1>
 <p>My thirst for learning never dries up, whether on a human or technical level. I'm particularly passionate about sharing knowledge and keeping up to date with the latest technological advances in my field. In addition to my technical skills, I'm also interested in concepts such as agility, clean architecture, accessibility and testing.</p>
-
 
 <h1>Outlook</h1>
 As a junior profile, I'm taking things one step at a time, but with a solid entourage to support me, I'm confident in my ability to progress and excel.
