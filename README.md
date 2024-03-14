@@ -1,5 +1,4 @@
-<img  align="center" src="https://github.com/PriscilliaAmmeux/priscillia.ammeux/assets/96787811/3c7e9adf-f421-4372-9af9-8ae4bb7e747f"/>
-
+<p align="center"><img src="https://github.com/PriscilliaAmmeux/priscillia.ammeux/assets/96787811/3c7e9adf-f421-4372-9af9-8ae4bb7e747f"/></p>
 
 
 <h1 align="center">About me</h1>
