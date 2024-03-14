@@ -41,7 +41,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width=100/></p>
 
 <h1 align="center">Diplomas obtained</h1>
-<ul align="center">
+<ul>
   <li>RNCP level 6 - Web and Mobile Web Developer (RNCP31114) in October 2023.</li>
   <li>Awaiting results of RNCP level 5 - Application Developer Designer (RNCP31678) - february 2024</li>
 </ul>
