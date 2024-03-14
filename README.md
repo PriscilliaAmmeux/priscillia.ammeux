@@ -2,7 +2,7 @@
 
 
 <h1>About me</h1>
-<p>Hey, I'm Priscillia,  I am Application Designer and Developer.</p>
+<p>Hey, I'm Priscillia Ammeux 🐞,  I am Application Designer and Developer.</p>
 
 <p>After a decade in the banking sector, I made one of the most difficult decisions of my career: to leave established financial comfort behind and embark on an apprenticeship in IT development.</p>
 
@@ -57,4 +57,9 @@ As a junior profile, I'm taking things one step at a time, but with a solid ento
 
 <h1>Contact</h1>
 If you're looking for a motivated developer with strong interpersonal skills, don't hesitate to contact me 🐞😉.
+
+<p>
+          <a href="mailto: priscillia.ammeux.pro@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priscillia.ammeux.pro@gmail.com"/></a>
+          <a href="https://www.linkedin.com/in/priscillia-ammeux/"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscillia-ammeux/"</a>
+</p>
 
