@@ -42,8 +42,9 @@
 
 <h1 align="center">Diplomas obtained</h1>
 <ul>
-  <li>RNCP level 6 - Web and Mobile Web Developer (RNCP31114) in October 2023.</li>
-  <li>Awaiting results of RNCP level 5 - Application Developer Designer (RNCP31678) - february 2024</li>
+  <li>RNCP level 6 - Application Developer Designer (RNCP31678) - February 2024</li>
+  <li>RNCP level 5 - Web and Mobile Web Developer (RNCP31114) - October 2023</li>
+  
 </ul>
 
 <h1 align="center">Current position</h1>
