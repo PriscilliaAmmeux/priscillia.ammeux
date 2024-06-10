@@ -40,7 +40,7 @@ I can also advise and guide customers in their choice.
 
 [See Portfolio](www.priscillia-ammeux-portfolio.fr)
 
-![Business Card](assets/business_card.jpg)
+![Business Card](assets/business_card.png)
 
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:priscillia.ammeux.pro@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priscillia-ammeux/)
