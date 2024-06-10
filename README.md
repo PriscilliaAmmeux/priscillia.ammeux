@@ -38,7 +38,7 @@ I can also advise and guide customers in their choice.
 
 ## Contact me
 
-[See Portfolio](www.priscillia-ammeux-portfolio.fr)
+[See Portfolio](https://www.priscillia-ammeux-portfolio.fr)
 
 ![Business Card](assets/business_card.png)
 
