@@ -1,4 +1,5 @@
-<p align="center"><img src="https://github.com/PriscilliaAmmeux/priscillia.ammeux/assets/96787811/3c7e9adf-f421-4372-9af9-8ae4bb7e747f"/></p>
+<p align="center"><img src="![WhatsApp Image 2024-06-02 at 19 54 18_e0635e3a](https://github.com/PriscilliaAmmeux/priscillia.ammeux/assets/96787811/31885ada-c499-4bc7-b970-6bc211b8a17c)
+"/></p>
 
 
 <h1 align="center">About me</h1>
