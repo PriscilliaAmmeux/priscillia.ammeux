@@ -1,6 +1,4 @@
-<p align="center"><img src="![WhatsApp Image 2024-06-02 at 19 54 18_e0635e3a](https://github.com/PriscilliaAmmeux/priscillia.ammeux/assets/96787811/31885ada-c499-4bc7-b970-6bc211b8a17c)
-"/></p>
-
+<p align="center"><img src="image.jpg"/></p>
 
 <h1 align="center">About me</h1>
 <p align="center">Hey, I'm Priscillia Ammeux 🐞,  I am Application Designer and Developer.</p>
@@ -9,30 +7,35 @@
 
 <p align="center">I embarked on this transition by immersing myself in e-learning via OpenClassrooms, before joining a bootcamp at Wild Code School. Driven by an all-consuming passion and unfailing motivation, I continued my apprenticeship with a year's work-study as a fullstack developer, again at Wild Code School, at XPEHO from March 2023 to February 2024.</p>
 
+<p>My portfolio: <a href="www.priscillia-ammeux-portfolio.fr">Click here</a></p>
+<p>My business card: <a href="/card.png">Click here</a></p>
+
 <h1 align="center">Some tools I have used and learned</h1>
 
 <p align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg" width=100/> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width=100 /> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=100/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=100 />          
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=100 />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/next/next-original.svg" width=100 />        
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width=100 />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width=100/>
+
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width=100/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width=100 />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width=100/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width=100/>   
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" width=100 />        
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" width=100 />         
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width=100/>                  
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width=100/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" width=100 />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" width=100 />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width=100/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width=100/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width=100/>       
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width=100/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=100/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width=100 />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karatelabs/karatelabs-original.svg" width=100/>          
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karatelabs/karatelabs-original.svg" width=100/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width=100/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" width=100/>     
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width=100/>          
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" width=100/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width=100/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-plain-wordmark.svg" width=100/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg" width=100/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" width=100/>
@@ -64,4 +67,3 @@
           <a href="mailto: priscillia.ammeux.pro@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priscillia.ammeux.pro@gmail.com"/></a>
           <a href="https://www.linkedin.com/in/priscillia-ammeux/"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscillia-ammeux/"</a>
 </p>
-
