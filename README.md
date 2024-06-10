@@ -1,69 +1,46 @@
-<p align="center"><img src="image.jpg"/></p>
+![Header](assets/image.jpg)
 
-<h1 align="center">About me</h1>
-<p align="center">Hey, I'm Priscillia Ammeux 🐞,  I am Application Designer and Developer.</p>
+## About me
 
-<p align="center">After a decade in the banking sector, I made one of the most difficult decisions of my career: to leave established financial comfort behind and embark on an apprenticeship in IT development.</p>
+I am a software developer and designer. I have a passion for creating software and web applications. I have a strong background in Java, SpringBoot, Nodejs, Nextjs, React, Flutter, PostgreSQL, MySQL, and Git. I have a degree in Application Designer and Developer and a degree in Web and Mobile Web Developer. I am available to advise and guide customers in their choice.
 
-<p align="center">I embarked on this transition by immersing myself in e-learning via OpenClassrooms, before joining a bootcamp at Wild Code School. Driven by an all-consuming passion and unfailing motivation, I continued my apprenticeship with a year's work-study as a fullstack developer, again at Wild Code School, at XPEHO from March 2023 to February 2024.</p>
+## My skills
 
-<p>My portfolio: <a href="www.priscillia-ammeux-portfolio.fr">Click here</a></p>
-<p>My business card: <a href="/card.png">Click here</a></p>
+I can specify, design and develop software or web applications. Here is a list of my skills:
 
-<h1 align="center">Some tools I have used and learned</h1>
+### Backend
 
-<p align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg" width=100/> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width=100 /> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=100/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=100 />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/next/next-original.svg" width=100 />        
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width=100 />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width=100/>
+- Java
+- SpringBoot
+- Nodejs
 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width=100/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width=100 />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width=100/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width=100/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" width=100 />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" width=100 />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width=100/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width=100/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width=100/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=100/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width=100 />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karatelabs/karatelabs-original.svg" width=100/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width=100/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" width=100/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width=100/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-plain-wordmark.svg" width=100/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg" width=100/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" width=100/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width=100/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width=100/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width=100/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width=100/></p>
+### Frontend
 
-<h1 align="center">Diplomas obtained</h1>
-<ul>
-  <li>RNCP level 6 - Application Developer Designer (RNCP31678) - February 2024</li>
-  <li>RNCP level 5 - Web and Mobile Web Developer (RNCP31114) - October 2023</li>
-  
-</ul>
+- Nextjs
+- React
+- Flutter
 
-<h1 align="center">Current position</h1>
-<p align="center">I'm looking for new professional opportunities. In the meantime, I'm involved in several projects, including training on Udemy and Ancyr Académie, as well as personal projects.</p>
+### Databases
 
-<h1 align="center">Passions and interests</h1>
-<p align="center">My thirst for learning never dries up, whether on a human or technical level. I'm particularly passionate about sharing knowledge and keeping up to date with the latest technological advances in my field. In addition to my technical skills, I'm also interested in concepts such as agility, clean architecture, accessibility and testing.</p>
+- PostgreSQL
+- MySQL
 
-<h1 align="center">Outlook</h1>
-<p align="center">As a junior profile, I'm taking things one step at a time, but with a solid entourage to support me, I'm confident in my ability to progress and excel.</p>
+### Project management
 
-<h1 align="center">Contact</h1>
-<p align="center">If you're looking for a motivated developer with strong interpersonal skills, don't hesitate to contact me 🐞😉.</p>
+- Git
 
-<p align=center>
-          <a href="mailto: priscillia.ammeux.pro@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priscillia.ammeux.pro@gmail.com"/></a>
-          <a href="https://www.linkedin.com/in/priscillia-ammeux/"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscillia-ammeux/"</a>
-</p>
+I can also advise and guide customers in their choice.
+
+- RNCP “Application Designer and Developer” - level 6 - Acquired in February 2024
+- RNCP "Developer web and web mobile” - level 5 - Acquired in October 2023
+- Various certificates - E-learning - Open Class Room - November 2021 to September 2022
+- BTS Assistant de Gestion PME PMI - Lycée Duhamel Du Monceau to Pithiviers (45) - Acquired in 2008
+
+## Contact me
+
+[See Portfolio](www.priscillia-ammeux-portfolio.fr)
+
+![Business Card](assets/business_card.jpg)
+
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:priscillia.ammeux.pro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priscillia-ammeux/)
