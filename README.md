@@ -1,4 +1,4 @@
-![Header](assets/business_card.jpg)
+![Header](assets/business_card.png)
 
 ## About me
 
