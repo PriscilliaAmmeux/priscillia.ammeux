@@ -1,4 +1,4 @@
-![Header](assets/image.jpg)
+![Header](assets/business_card.jpg)
 
 ## About me
 
@@ -10,14 +10,15 @@ I can specify, design and develop software or web applications. Here is a list o
 
 ### Backend
 
+- Nodejs
 - Java
 - SpringBoot
-- Nodejs
 
 ### Frontend
 
 - Nextjs
-- React
+- Reactjs
+- Vuejs
 - Flutter
 
 ### Databases
@@ -33,14 +34,12 @@ I can also advise and guide customers in their choice.
 
 - RNCP “Application Designer and Developer” - level 6 - Acquired in February 2024
 - RNCP "Developer web and web mobile” - level 5 - Acquired in October 2023
-- Various certificates - E-learning - Open Class Room - November 2021 to September 2022
-- BTS Assistant de Gestion PME PMI - Lycée Duhamel Du Monceau to Pithiviers (45) - Acquired in 2008
 
 ## Contact me
 
 [See Portfolio](https://www.priscillia-ammeux-portfolio.fr)
 
-![Business Card](assets/business_card.png)
+![Business Card](assets/business_card_verso.png)
 
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:priscillia.ammeux.pro@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priscillia-ammeux/)
