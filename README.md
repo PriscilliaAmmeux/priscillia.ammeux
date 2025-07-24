@@ -50,6 +50,13 @@ Je crée des expériences digitales sur mesure, où **l’accessibilité et la p
 
 ---
 
+## 🎤 Engagements dans l'écosystème tech
+
+- Reviewer pour le **DevFest Lille 2024** – sélection des talks pour un événement tech engagé et inclusif  
+- Reviewer pour **Cloud Nord 2025** – édition d’octobre, centrée sur les pratiques cloud modernes dans les Hauts-de-France  
+
+---
+
 ## 🤝 Communautés
 
 Je fais partie de plusieurs communautés inspirantes :
