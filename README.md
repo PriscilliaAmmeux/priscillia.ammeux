@@ -1,45 +1,66 @@
-![Header](assets/business_card.png)
+<img width="6062" height="6062" alt="Sticker visage" src="https://github.com/user-attachments/assets/98e7e174-a304-46c1-a45d-388849bd08b3" />
 
-## About me
 
-I am a software developer and designer. I have a passion for creating software and web applications. I have a strong background in Java, SpringBoot, Nodejs, Nextjs, React, Flutter, PostgreSQL, MySQL, and Git. I have a degree in Application Designer and Developer and a degree in Web and Mobile Web Developer. I am available to advise and guide customers in their choice.
+<h2 align="center">Votre site a besoin de piquant ? J’apporte la framboise. 🍓</h2>
 
-## My skills
+---
 
-I can specify, design and develop software or web applications. Here is a list of my skills:
+# Bonjour, je suis Priscillia Ammeux 👩‍💻
 
-### Backend
+---
 
-- Nodejs
-- Java
-- SpringBoot
+## 🎨 Mon identité visuelle
 
-### Frontend
+Mon logo est écrit **pixel par pixel**, comme mes projets : construits avec rigueur, méthode et une touche personnelle.  
+Ma couleur signature est un rose framboise vif `#be185d` — un mélange subtil entre technique et créativité, carré et fruité.
 
-- Nextjs
-- Reactjs
-- Vuejs
-- Flutter
+---
 
-### Databases
+## 💻 Ce que je fais
 
-- PostgreSQL
-- MySQL
+Je suis développeuse web indépendante, passionnée par le **développement frontend** et **l’éco-conception**.  
+Je crée des expériences digitales sur mesure, où **l’accessibilité et la performance** sont au cœur de chaque ligne de code.  
 
-### Project management
+<img width="2405" height="2264" alt="Nuage web" src="https://github.com/user-attachments/assets/948206e3-cf77-448d-82a4-69b47d4a2309" />
 
-- Git
 
-I can also advise and guide customers in their choice.
+---
 
-- RNCP “Application Designer and Developer” - level 6 - Acquired in February 2024
-- RNCP "Developer web and web mobile” - level 5 - Acquired in October 2023
+## 🌱 Mes valeurs
 
-## Contact me
+- **Accessibilité** : un web pour tous, simple et inclusif  
+- **Éco-conception** : réduire l’impact numérique sans sacrifier la qualité  
+- **Créativité & précision** : chaque détail compte, du pixel à l’expérience utilisateur  
 
-[See Portfolio](https://www.priscillia-ammeux-portfolio.fr)
+---
 
-![Business Card](assets/business_card_verso.png)
+## 🚀 Projets réalisés et en cours
 
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:priscillia.ammeux.pro@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priscillia-ammeux/)
+| Projet | Aperçu |
+|--------|--------|
+| [Nepomucene](https://www.nepomucene.fr/) | 
+| [Adrien Demarle Ostéopathe](https://www.adrien-demarle-osteopathe.fr/) |
+| [Massage Stéphanie Heudré](https://www.massage-stephanie-heudre.fr/) | 
+| **Le Chantier d’à Côté** *(en cours)* 
+
+<img width="6062" height="6062" alt="Sticker 404" src="https://github.com/user-attachments/assets/3a16bff3-fae0-4152-afd6-62101e0d165b" />
+
+---
+
+## 🤝 Communautés
+
+Je fais partie de plusieurs communautés inspirantes :
+
+- [Les Chtite Dev](https://www.linkedin.com/company/chtitedev/posts/?feedView=all) — communauté tech des Hauts-de-France  
+- [Les Solopreneurs](https://www.linkedin.com/groups/13284060/) — indépendants, créateurs et solidaires  
+
+---
+
+## 📫 Contact
+
+N’hésitez pas à me contacter pour discuter de vos projets ou simplement échanger :  
+📧 priscillia.ammeux.pro@gmail.com
+🌐 [mon-site-web.fr](https://www.priscillia-ammeux-portfolio.fr/)
+
+
+> ⚠️ **Tous les visuels présentés sont ma propriété. Merci de ne pas les copier, télécharger ou réutiliser sans autorisation.**
