@@ -43,7 +43,7 @@ Je crée des expériences digitales sur mesure, où **l’accessibilité et la p
 | **Le Chantier d’à Côté** *(en cours)* 
 | [Nepomucene](https://www.nepomucene.fr/) | 
 | [Adrien Demarle Ostéopathe](https://www.adrien-demarle-osteopathe.fr/) |
-| [Massage Stéphanie Heudré](https://www.massage-stephanie-heudre.fr/) | 
+| [Massage Stéphanie Heudre](https://www.massage-stephanie-heudre.fr/) | 
 | [YAKI - XPEHO](https://yaki.xpeho.fr/)
 
 <img width="300" height="300" alt="Sticker 404" src="https://github.com/user-attachments/assets/3a16bff3-fae0-4152-afd6-62101e0d165b" />
