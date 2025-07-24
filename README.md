@@ -1,5 +1,6 @@
-![Sticker visage](https://github.com/user-attachments/assets/dd1a347d-50c9-420f-a0f0-2f6fe670a047)
-![Uploading Sticker visage.png…]()
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd1a347d-50c9-420f-a0f0-2f6fe670a047" alt="Sticker visage" width="300"/>
+</p>
 
 
 <h2 align="center">Votre site a besoin de piquant ? J’apporte la framboise. 🍓</h2>
@@ -22,7 +23,7 @@ Ma couleur signature est un rose framboise vif `#be185d` — un mélange subtil 
 Je suis développeuse web indépendante, passionnée par le **développement frontend** et **l’éco-conception**.  
 Je crée des expériences digitales sur mesure, où **l’accessibilité et la performance** sont au cœur de chaque ligne de code.  
 
-<img width="50" height="50" alt="Nuage web" src="https://github.com/user-attachments/assets/948206e3-cf77-448d-82a4-69b47d4a2309" />
+<img width="300" height="300" alt="Nuage web" src="https://github.com/user-attachments/assets/948206e3-cf77-448d-82a4-69b47d4a2309" />
 
 
 ---
@@ -44,7 +45,7 @@ Je crée des expériences digitales sur mesure, où **l’accessibilité et la p
 | [Massage Stéphanie Heudré](https://www.massage-stephanie-heudre.fr/) | 
 | **Le Chantier d’à Côté** *(en cours)* 
 
-<img width="50" height="50" alt="Sticker 404" src="https://github.com/user-attachments/assets/3a16bff3-fae0-4152-afd6-62101e0d165b" />
+<img width="300" height="300" alt="Sticker 404" src="https://github.com/user-attachments/assets/3a16bff3-fae0-4152-afd6-62101e0d165b" />
 
 ---
 
