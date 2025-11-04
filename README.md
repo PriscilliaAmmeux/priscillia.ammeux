@@ -40,8 +40,8 @@ Je crée des expériences digitales sur mesure, où **l’accessibilité et la p
 
 | Projet | Aperçu |
 |--------|--------|
-| **Le Chantier d’à Côté** *(en cours) | https://www.lechantierdacote.com/ * 
-| [Hyperacousie Solidarité] (https://www.hyperacousie-solidarite.com/) | https://www.hyperacousie-solidarite.com/
+| **Le Chantier d’à Côté** (en cours) | https://www.lechantierdacote.com/  
+| [Hyperacousie Solidarité](https://www.hyperacousie-solidarite.com/) | https://www.hyperacousie-solidarite.com/
 | [Nepomucene](https://www.nepomucene.fr/) | https://www.nepomucene.fr/
 | [Adrien Demarle Ostéopathe](https://www.adrien-demarle-osteopathe.fr/) | https://www.adrien-demarle-osteopathe.fr/
 | [Massage Stéphanie Heudre](https://www.massage-stephanie-heudre.fr/) | https://www.massage-stephanie-heudre.fr/
