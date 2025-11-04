@@ -72,7 +72,7 @@ Je fais partie de plusieurs communautés inspirantes :
 ## 📫 Contact
 
 N’hésitez pas à me contacter pour discuter de vos projets ou simplement échanger :  
-📧 priscillia.ammeux.pro@gmail.com  
-🌐 [pixeliaandco.fr](https://www.priscillia-ammeux-portfolio.fr/)
+📧 contact@pixelia-and-co.fr
+🌐 [pixeliaandco.fr]([https://www.pixelia-and-co.fr/)
 
 > ⚠️ **Tous les visuels présentés sont ma propriété. Merci de ne pas les copier, télécharger ou réutiliser sans autorisation.**
